@@ -144,3 +144,46 @@ h1{
 .contact_info{
     margin-top: 2em;
 }
+/*about*/
+#myCarousel {
+    color:#222;
+    position: relative;
+    height: 31em;
+    margin-top:4em;
+    margin-left: 0em;
+    width: 40em;
+    font-family: sofia-pro;
+    font-size: 15px;
+    letter-spacing: .01em;
+    line-height: 2em;
+}
+.about-right{
+	float: left;
+	padding:0px;
+	background:url(../img/7.jpg) no-repeat 0px 0px;
+	height:32em;
+    margin-right: 0;
+    margin-left: 2em;
+    margin-top: 4em;
+    width: 35em;
+}
+.about-left{
+    float: left;
+    height:500px ;
+}
+.aboutm{
+    background-color:gray;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0em;
+    line-height: 1.6em;
+    font-weight: 300;
+    font-style: normal;
+   
+    text-transform: none;
+    color: #222;
+}
+.carousel-indicators li {
+    padding: 0;
+    background-color:blue;
+}
