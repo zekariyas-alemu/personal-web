@@ -187,3 +187,20 @@ h1{
     padding: 0;
     background-color:blue;
 }
+/*gallery*/
+#portfolio img {
+	width: 100%;
+}
+.portfolio-items article img {
+	width: 100%;
+}
+.images{
+	margin-bottom: 2%;
+}
+.heading{
+    text-transform: uppercase;
+    margin: 1.5em;
+}
+#portfolio{
+    margin-top: 10em;
+}
