@@ -212,3 +212,19 @@ h1{
 .wblo{
     margin-top: 10em;
 }
+.footer{
+    background-color: #222;
+    height: 70px;
+}
+.text-right{
+    color: #fff;
+    margin-top: 2em;
+}
+.simplenav a{
+    text-decoration: none;
+    color: white;
+    
+}
+.simplenav{
+    margin-top: 2em;
+}
